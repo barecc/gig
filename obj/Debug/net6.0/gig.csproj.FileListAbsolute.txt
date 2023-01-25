@@ -1,0 +1,15 @@
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/gig.csproj.AssemblyReference.cache
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/gig.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/gig.AssemblyInfoInputs.cache
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/gig.AssemblyInfo.cs
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/gig.csproj.CoreCompileInputs.cache
+/Users/davidbarinov/Desktop/gig/gig/bin/Debug/net6.0/gig
+/Users/davidbarinov/Desktop/gig/gig/bin/Debug/net6.0/gig.deps.json
+/Users/davidbarinov/Desktop/gig/gig/bin/Debug/net6.0/gig.runtimeconfig.json
+/Users/davidbarinov/Desktop/gig/gig/bin/Debug/net6.0/gig.dll
+/Users/davidbarinov/Desktop/gig/gig/bin/Debug/net6.0/gig.pdb
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/gig.dll
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/refint/gig.dll
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/gig.pdb
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/gig.genruntimeconfig.cache
+/Users/davidbarinov/Desktop/gig/gig/obj/Debug/net6.0/ref/gig.dll
